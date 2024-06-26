@@ -1,9 +1,13 @@
 {
-  "allowedIps": ["172.18.0.16"],
+  "allowedIps": ["172.18.0.16", "172.18.0.3"],
   "users": [
     {
-      "username": "ruztan",
-      "password": "ruztan2"
+      "username": "user1",
+      "password": "password1"
     },
+    {
+      "username": "user2",
+      "password": "password2"
+    }
   ]
 }
